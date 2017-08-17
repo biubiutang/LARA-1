@@ -1,0 +1,7 @@
+{"aspects":[
+		{"name":"value", "keywords":["value", "price"]},
+		{"name":"room", "keywords":["room", "space"]},
+		{"name":"location", "keywords":["location", "locate"]},
+		{"name":"cleanliness", "keywords":["clean", "dirty"]},
+		{"name":"service", "keywords":["service", "manager"]}
+	]}
